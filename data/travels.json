@@ -1,0 +1,83 @@
+[
+  {
+    "id": "6497ac83-4935-47e0-a108-c55ebcf8cbd2",
+    "title": "Ulyanovsk",
+    "posts": [
+      {
+        "title": "Ulyanovsk",
+        "photos": [
+          {
+            "id": "b9d75d51-300f-44fd-a498-0a4c82bc8053",
+            "coordinates": {
+              "lat": "48.234299",
+              "lng": "54.289724"
+            }
+          },
+          {
+            "id": "2f8f2fa0-db62-41db-a5c8-f1cbd98b9cf8",
+            "coordinates": {
+              "lat": "48.234463",
+              "lng": "54.289695"
+            }
+          },
+          {
+            "id": "958f33c0-476e-4049-ac6c-80a38fdf90fa",
+            "coordinates": {
+              "lat": "48.234297",
+              "lng": "54.289453"
+            }
+          },
+          {
+            "id": "620699bd-38ce-4768-912c-0dc2471a2444",
+            "coordinates": {
+              "lat": "48.234133",
+              "lng": "54.289477"
+            }
+          },
+          {
+            "id": "8613e4f9-1444-477b-874f-0ed7c6af958e",
+            "coordinates": {
+              "lat": "48.233940",
+              "lng": "54.289544"
+            }
+          },
+          {
+            "id": "c50ec1c4-65b9-423e-bb91-a96a9ac6ce95",
+            "coordinates": {
+              "lat": "48.231430",
+              "lng": "54.290662"
+            }
+          },
+          {
+            "id": "5ebc4962-2695-44ac-8ed2-cefe0aa4dd1a",
+            "coordinates": {
+              "lat": "48.235790",
+              "lng": "54.291598"
+            }
+          },
+          {
+            "id": "5ef0c6f7-66d1-4112-8ea3-77a6ae620452",
+            "coordinates": {
+              "lat": "48.235790",
+              "lng": "54.291598"
+            }
+          },
+          {
+            "id": "02cc5eb8-9b12-4546-83a8-4585225ddac8",
+            "coordinates": {
+              "lat": "48.235832",
+              "lng": "54.291339"
+            }
+          },
+          {
+            "id": "4071e8b5-f7e9-4750-80ad-865d5d87a65f",
+            "coordinates": {
+              "lat": "48.235832",
+              "lng": "54.291339"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
