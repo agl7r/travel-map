@@ -846,5 +846,87 @@
         ]
       }
     ]
+  },
+  {
+    "id": "d97501c1-aaa7-40f9-b9db-ddb432ac34ef",
+    "title": "Kama",
+    "posts": [
+      {
+        "id": "e9e5988b-3b39-4151-ad48-a0d86438c5e7",
+        "title": "",
+        "photos": [
+          {
+            "id": "db29e612-0c30-47e9-be85-1f584ddb2f79",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "5359e31b-7137-4ce4-8451-1ca06773c204",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "d1d5e598-bcbd-4ae8-a52c-82c718a1616f",
+            "coordinates": {
+              "lat": 56.647235,
+              "lng": 53.786573
+            }
+          },
+          {
+            "id": "d82c20e5-a6fa-4651-be2e-8c3c529a110e",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "08733050-9693-4ace-93ac-2b3b3383b51f",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "c4a9a32b-7b92-4f0a-a962-e9d8e6799086",
+            "coordinates": {
+              "lat": 56.645846,
+              "lng": 53.777798
+            }
+          },
+          {
+            "id": "7be0e5bb-2e94-458b-99c4-741c7e769a6b",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "96ec1a8d-6eff-467e-8d22-0dd0efe9fb44",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "1160ab92-85d6-4451-9b72-4b52d53f54ad",
+            "coordinates": {
+              "lat": null,
+              "lng": null
+            }
+          },
+          {
+            "id": "59c94682-6327-489a-b9b1-5ba88d5dc913",
+            "coordinates": {
+              "lat": 56.647763,
+              "lng": 53.77106
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
