@@ -31,8 +31,10 @@ function createMap() {
 
 function renderPostOnMap(post, map) {
   post.photos.forEach(photo => {
-    const placemark = new ymaps.Placemark([photo.coordinates.lng, photo.coordinates.lat])
-    map.add(placemark)
+    if (photo.coordinates.lat && photo.coordinates.lng) {
+      const placemark = new ymaps.Placemark([photo.coordinates.lat, photo.coordinates.lng])
+      map.add(placemark)
+    }
   })
 }
 
