@@ -32,7 +32,14 @@ function createMap() {
 function renderPostOnMap(post, map) {
   post.photos.forEach(photo => {
     if (photo.coordinates.lat && photo.coordinates.lng) {
-      const placemark = new ymaps.Placemark([photo.coordinates.lat, photo.coordinates.lng])
+      const placemark = new ymaps.Placemark([photo.coordinates.lat, photo.coordinates.lng], {},
+        {
+          iconLayout: 'default#image',
+          iconImageHref: 'icon.png',
+          iconImageSize: [30, 30],
+          iconImageOffset: [-5, -38]
+        }
+      )
       map.add(placemark)
     }
   })
